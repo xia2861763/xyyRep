@@ -1,0 +1,6 @@
+D:\BF\Desktop\湖工\testFile\example\example\bin\Debug\example.exe.config
+D:\BF\Desktop\湖工\testFile\example\example\bin\Debug\example.exe
+D:\BF\Desktop\湖工\testFile\example\example\bin\Debug\example.pdb
+D:\BF\Desktop\湖工\testFile\example\example\obj\Debug\example.csprojResolveAssemblyReference.cache
+D:\BF\Desktop\湖工\testFile\example\example\obj\Debug\example.exe
+D:\BF\Desktop\湖工\testFile\example\example\obj\Debug\example.pdb

@@ -1,0 +1,9 @@
+D:\BF\Desktop\湖工\testFile\js\js\bin\x64\Debug\resources.pri
+D:\BF\Desktop\湖工\testFile\js\js\bin\x64\Debug\AppxManifest.xml
+D:\BF\Desktop\湖工\testFile\js\js\bin\x64\Debug\js.build.appxrecipe
+D:\BF\Desktop\湖工\testFile\js\js\bld\x64\Debug\priconfig.xml
+D:\BF\Desktop\湖工\testFile\js\js\bld\x64\Debug\layout.resfiles
+D:\BF\Desktop\湖工\testFile\js\js\bld\x64\Debug\resources.resfiles
+D:\BF\Desktop\湖工\testFile\js\js\bld\x64\Debug\pri.resfiles
+D:\BF\Desktop\湖工\testFile\js\js\bld\x64\Debug\LanguageQualifiers.txt
+D:\BF\Desktop\湖工\testFile\js\js\bld\x64\Debug\ProjectArchitectures.txt
